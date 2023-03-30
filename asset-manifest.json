@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/growbazaar/static/css/main.93e6c41a.css",
+    "main.js": "/growbazaar/static/js/main.3842dcb7.js",
+    "static/media/pexels-miguel-á-padriñán-1111316.jpg": "/growbazaar/static/media/pexels-miguel-á-padriñán-1111316.b97dfabf48eba5f2d211.jpg",
+    "static/media/seller.jpg": "/growbazaar/static/media/seller.435dc9df537e4acd97f5.jpg",
+    "static/media/joe-woods-4Zaq5xY5M_c-unsplash.jpg": "/growbazaar/static/media/joe-woods-4Zaq5xY5M_c-unsplash.613b1ef36261c127d516.jpg",
+    "static/media/thanku.jpg": "/growbazaar/static/media/thanku.b7f72e54731d79bd9153.jpg",
+    "static/media/vecteezy_smartphone-online-grocery-shopping_12021392.jpg": "/growbazaar/static/media/vecteezy_smartphone-online-grocery-shopping_12021392.0b9a8053ef1e5f6119cf.jpg",
+    "static/media/In no time-pana.png": "/growbazaar/static/media/In no time-pana.c8faa4e268a7438b1b77.png",
+    "static/media/sritam.jpg": "/growbazaar/static/media/sritam.8d6df0ae7af609953b92.jpg",
+    "static/media/WhatsApp Image 2023-03-15 at 10.39.05.jpg": "/growbazaar/static/media/WhatsApp Image 2023-03-15 at 10.39.05.60ebe623571c5a0d3d7a.jpg",
+    "static/media/pallu.jpg": "/growbazaar/static/media/pallu.84b0bca18f2bf21198a6.jpg",
+    "static/media/pics2.jpg": "/growbazaar/static/media/pics2.989f35c24b3768e9d1a6.jpg",
+    "static/media/gr.jpg": "/growbazaar/static/media/gr.fdb76f763d28445cc5a5.jpg",
+    "static/media/46604184-thin-line-retail-e-commerce-online-business-seamless-blue-pattern-vector-shopping-and-marketplace.webp": "/growbazaar/static/media/46604184-thin-line-retail-e-commerce-online-business-seamless-blue-pattern-vector-shopping-and-marketplace.d81c62a31e370b68d507.webp",
+    "static/media/WhatsApp Image 2023-03-15 at 10.39.04.jpg": "/growbazaar/static/media/WhatsApp Image 2023-03-15 at 10.39.04.71040c099085026be8ba.jpg",
+    "static/media/lipsa.jpg": "/growbazaar/static/media/lipsa.c44df348db1ace2387d5.jpg",
+    "static/media/pics1.jpg": "/growbazaar/static/media/pics1.b08224904b59d5ca7294.jpg",
+    "static/media/logo.png": "/growbazaar/static/media/logo.f903b93609fb3b70f0a3.png",
+    "static/media/revicons.eot": "/growbazaar/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/growbazaar/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/growbazaar/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/growbazaar/index.html",
+    "main.93e6c41a.css.map": "/growbazaar/static/css/main.93e6c41a.css.map",
+    "main.3842dcb7.js.map": "/growbazaar/static/js/main.3842dcb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93e6c41a.css",
+    "static/js/main.3842dcb7.js"
+  ]
+}
